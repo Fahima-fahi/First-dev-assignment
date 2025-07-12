@@ -45,6 +45,7 @@
 .header{
     background-image: url('../Assets/Hero-bg.png');
     background-repeat: no-repeat;
+    background-size: auto;
 }
 /* Nav styles*/
 nav{
@@ -178,4 +179,6 @@ div ul li{
 .footer-title{
     text-align: center;
 }
-
+.footer-description{
+   text-align: center; 
+}
